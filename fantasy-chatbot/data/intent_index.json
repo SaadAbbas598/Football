@@ -1,0 +1,306 @@
+[
+  {
+    "intent": "compare_players",
+    "query": "Ekeler or Bijan this week?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Should I start Ekler or Bijan Robinson?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "play bijan or ekler??"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Bijan vs Ekeler \u2014 who\u2019s the move?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "olave or pittman week 4?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Better WR this week: Pittman or Olave?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Start Godwin over Deebo?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Bench Godwin or Deebo?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Gonna bench Deebo or Godwin \u2014 who?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Should I flex Barkley or Pollard?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Pollard better than Barkley in half PPR?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Pick one: Pacheco or Gibbs?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Who scores more: Waddle or Adams?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Dobbins or Swift to start at RB2?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Start Andrews or Kittle?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Which TE better \u2014 Kittle or Andrews?"
+  },
+  {
+    "intent": "compare_players",
+    "query": "Better flex play: Gibbs or Pacheco?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "How many fantasy points for Josh Allen this week?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "Tyreek projection week 4?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "What's Tua's projected stats?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "CMC projection?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "How many pts for Derrick Henry?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "Can I see Kupp's numbers this week?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "PPR proj for Kelce?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "Mahomes fantasy prediction?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "Etienne outlook for Sunday?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "Lamar fantasy score projection?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "How many pts is Lamar expected to get?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "Projected fantasy pts for Allen?"
+  },
+  {
+    "intent": "get_projection",
+    "query": "What are Tua's projections this week?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "Who should I pick at 1.03?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "RBs worth a 5th pick?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "Best WR options in Round 2?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "Help! I got the 6th pick."
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "2nd round strategy?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "Go WR or RB at pick 7?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "Pick 9 in PPR \u2014 who's best?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "What to do at 3.10?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "Top guys left in Round 3?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "Draft strategy at 4.05?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "Suggestions for 2nd rd?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "What's the move at 1.03?"
+  },
+  {
+    "intent": "get_draft_recommendation",
+    "query": "Who should I take in late round 2?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Who\u2019s favored: Eagles or Cowboys?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Chiefs vs Bills odds?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Point spread for Vikings game?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Vegas pick for Bengals?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Dolphins spread?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Odds for tonight\u2019s game?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Underdogs & favs Sunday?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Ravens spread this week?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Who are underdogs week 3?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Monday Night Football line?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Moneyline for Cowboys vs 49ers?"
+  },
+  {
+    "intent": "get_vegas_odds",
+    "query": "Who\u2019s the underdog in Jets game?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Is Tyreek Hill playing?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Who\u2019s out this week?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Rodgers injury update?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Who didn\u2019t practice today?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Big injuries this week?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Players ruled OUT Sunday?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Josh Allen hurt still?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Is Kupp still injured?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Any QBs questionable this week?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Injury report for week 6?"
+  },
+  {
+    "intent": "get_injury_status",
+    "query": "Any fantasy-relevant injuries?"
+  },
+  {
+    "intent": "fallback",
+    "query": "What\u2019s the weather in Paris?"
+  },
+  {
+    "intent": "fallback",
+    "query": "Tell me a joke."
+  },
+  {
+    "intent": "fallback",
+    "query": "Play some music."
+  },
+  {
+    "intent": "fallback",
+    "query": "How do I cook pasta?"
+  },
+  {
+    "intent": "fallback",
+    "query": "Can you order food?"
+  },
+  {
+    "intent": "fallback",
+    "query": "Nearby restaurants?"
+  },
+  {
+    "intent": "fallback",
+    "query": "Translate 'hi' to Spanish."
+  },
+  {
+    "intent": "fallback",
+    "query": "What\u2019s the age of Earth?"
+  },
+  {
+    "intent": "fallback",
+    "query": "Where is Tokyo?"
+  },
+  {
+    "intent": "fallback",
+    "query": "Tell me the stock price for Tesla."
+  }
+]

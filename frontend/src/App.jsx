@@ -1,14 +1,12 @@
-import './App.css'
-import Index from './pages/Index'
+import React from "react";
+import ChatBot from "./components/ChatBot"; // Adjust path if needed
 
 function App() {
-
   return (
-    <>
-    <Index />
-      
-    </>
-  )
+    <div className="App">
+      <ChatBot />
+    </div>
+  );
 }
 
-export default App
+export default App;
